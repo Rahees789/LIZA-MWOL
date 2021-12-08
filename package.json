@@ -1,8 +1,8 @@
 {
-  "name": "LizaMwol",
+  "name": "᥅ꪖꫝꫀꫀᦓ",
   "version": "7.3.6",
   "description": "Liza Mwol is the Modified Version of WhatsAsena, Made By @Chunkindepadayali with Baileys.",
-  "main": "./LIZA-MWOL/bot.js",
+  "main": "./᥅ꪖꫝꫀꫀᦓ-MWOL/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
@@ -18,7 +18,7 @@
     "WhatsAsena"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "@TOXIC-DEVIL / @farhan-dqz",
+  "developer": "917994206751",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Chunkindepadayali/LIZA-MWOL/issues"
